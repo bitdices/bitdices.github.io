@@ -3,7 +3,7 @@
     "number": {
       "value": 80,
       "density": {
-        "enable": disable,
+        "enable": true,
         "value_area": 800
       }
     },

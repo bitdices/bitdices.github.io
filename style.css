@@ -76,6 +76,5 @@ body {
 /* Progress Bar */
 
 .progress-bar-grey {
-    background-color: #87CEFA;
     background-image: url("background.png");
 }

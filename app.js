@@ -6,11 +6,11 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 18,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'BitDices',
+  app_name: 'Untitled Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfkF3cUAAAAADuaMSWFyARPOuH1LG3ybgMTdjSz',  // <----- EDIT ME!
-  redirect_uri: 'https://bitdices.github.io',
+  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+  redirect_uri: 'https://untitled-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
@@ -31,7 +31,6 @@ var config = {
 // You shouldn't have to edit anything below this line
 ////////////////////////////////////////////////////////////
 
-});
 // Validate the configured house edge
 (function() {
   var errString;

@@ -13,7 +13,7 @@ body {
 
 .chat-list {
     overflow-y: scroll;
-    height: 215px;
+    height: 200px;
     word-wrap: break-word;
 }
 
